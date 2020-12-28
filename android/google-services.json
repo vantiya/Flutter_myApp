@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "330946151246",
+    "project_id": "flutterdemo-d5240",
+    "storage_bucket": "flutterdemo-d5240.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330946151246:android:d114756d9a74939fe0141f",
+        "android_client_info": {
+          "package_name": "vantiya.fluterdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330946151246-htvcbd9fnhhehlu87djd3uhm8i93q8sj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vantiya.fluterdemo",
+            "certificate_hash": "71f602a0204a72888b8672111f85c9c203caa01c"
+          }
+        },
+        {
+          "client_id": "330946151246-rf0119nn270aqp3leghv8q47nhg574ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP2YmQ87AwFap1b998BFcSxP-rG3ZPRP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330946151246-rf0119nn270aqp3leghv8q47nhg574ga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
